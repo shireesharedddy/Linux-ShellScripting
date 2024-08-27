@@ -29,7 +29,7 @@ This Bash script automates the process of creating four users on a Linux system,
 
 ### Usage
 
-1. Save the script to a file, e.g., `create_users.sh`.
+1. Save the script to a file: `create_users.sh`.
 2. Make the script executable: `chmod 700 create_users.sh`.
 3. Run the script with superuser privileges: `sudo ./create_users.sh`.
 
